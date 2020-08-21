@@ -1,6 +1,8 @@
 # Resume Website 📄
 
-## Basic html functionalities used such as
+Link: https://swamitagupta.github.io/resume-website/
+
+### Basic html functionalities used
 - text and background formatting
 - adding images
 - tables
